@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/edit_profile"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="5dp"
+        android:textSize="18sp"
+        android:paddingLeft="3dp"
+        android:paddingRight="3dp"
+        android:text="Test your View"
+        android:paddingTop="5dp"
+
+        />
+
+
+
+</LinearLayout>

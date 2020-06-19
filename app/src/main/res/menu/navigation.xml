@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fruits_tab"
+        android:icon="@drawable/harvest"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/veg_tab"
+        android:icon="@drawable/veg"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/spices_tab"
+        android:icon="@drawable/spices"
+        android:title="@string/title_notifications" />
+
+
+
+</menu>

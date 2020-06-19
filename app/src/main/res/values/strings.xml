@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AswaQ Tawfik</string>
+    <string name="controls_login_username">Username</string>
+    <string name="controls_login_password">Password</string>
+    <string name="selectImage">Select Image : </string>
+    <string name="cropImage">Crop Image </string>
+
+    <string-array name="genderArray">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="title_activity_main2">AsWaQ TawFik</string>
+    <string name="title_home">Fruits</string>
+    <string name="title_dashboard">Vegetables</string>
+    <string name="title_notifications">Spices</string>
+
+</resources>

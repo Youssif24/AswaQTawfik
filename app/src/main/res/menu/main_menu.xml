@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/cart_tab"
+        android:title="@string/title_home"
+        android:icon="@drawable/cart4"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:icon="@drawable/settings0"
+        android:id="@+id/setting_tab"
+        android:title="Settings"
+        />
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        />
+    <item
+        android:id="@+id/rate"
+        android:title="Rate"
+        />
+
+
+
+
+
+</menu>
